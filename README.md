@@ -9,19 +9,18 @@
 
 - 🤝 You can help **me too**
 
-- 👨‍💻 My projects will be available [right here for now](right here for now)
+- 👨‍💻 My projects will be available right here for now
 
-- 📝 I don't write articles yet... [maybe soon](maybe soon)
+- 📝 I don't write articles yet... maybe soon
 
 - 💬 Ask me about anything, I can try to **help you**
 
 - 📫 How to reach me **mathewsabraao@gmail.com**
 
-- 📄 Actually, I am an [enthusiast](enthusiast)
+- 📄 Actually, I am an enthusiast
 
 - ⚡ Fun fact **I enjoy exploring new tools and honing my skills**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
