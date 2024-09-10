@@ -1,9 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mathews</h1>
 <h3 align="center">A developer and a guy passionate about technology in general from Brazil</h3>
 
+- 🔭 Currently, I'm **living life**
+
 - 🌱 I’m currently learning **Cryptoanalysis**
 
+- 👯 I'm looking to collaborate on anything I **anything**
+
+- 🤝 You can help **me too**
+
+- 👨‍💻 My projects will be available [right here for now](right here for now)
+
+- 📝 I don't write articles yet... [maybe soon](maybe soon)
+
+- 💬 Ask me about anything, I can try to **help you**
+
 - 📫 How to reach me **mathewsabraao@gmail.com**
+
+- 📄 Actually, I am an [enthusiast](enthusiast)
 
 - ⚡ Fun fact **I enjoy exploring new tools and honing my skills**
 
